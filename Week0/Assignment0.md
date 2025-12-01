@@ -5,7 +5,7 @@ This week focuses on building essential Python programming, data visualization, 
 
 ## 1. Python Fundamentals Assignment
 
-**Notebook:** [Python Basics Notebook](https://colab.research.google.com/drive/1B1WLjqWZPJZYR44IRrWIkqVOWkOKhO2a?usp=sharing)
+**Notebook:** [Python Basics Notebook](https://colab.research.google.com/drive/1B1WLjqWZPJZYR44IRrWIkqVOWkOKhO2a?usp=sharing)(Copy the assignment notebook, complete your code in it, save it as python_assignment.ipynb)
 
 ### Topics Covered:
 - **Basic Python Syntax:** Variables, operators, and expressions
@@ -16,7 +16,7 @@ This week focuses on building essential Python programming, data visualization, 
 - **Essential Libraries:** NumPy for numerical operations, Pandas for data manipulation
 ## 2. Matplotlib Visualization Assignment
 
-**Notebook:** [Matplotlib Visualization Notebook](https://colab.research.google.com/drive/1B1WLjqWZPJZYR44IRrWIkqVOWkOKhO2a?usp=sharing)
+**Notebook:** [Matplotlib Visualization Notebook](https://colab.research.google.com/drive/1B1WLjqWZPJZYR44IRrWIkqVOWkOKhO2a?usp=sharing)(Same copy the notebook and make submission)
 
 ### Skills You'll Practice:
 - **Basic Plot Types:** Line plots, bar charts, scatter plots
